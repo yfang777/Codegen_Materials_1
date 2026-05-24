@@ -1,0 +1,84 @@
+<?xml version="1.0" ?>
+<mujoco model="034_spoon_2">
+  <asset>
+    <mesh name="034_spoon_2_mesh" file="034_spoon_2.stl" scale="1.0 1.0 1.0"/>
+    <mesh name="034_spoon_2_part_0" file="decomposed/034_spoon_2_decomposed_0.stl" scale="1.0 1.0 1.0"/>
+    <mesh name="034_spoon_2_part_1" file="decomposed/034_spoon_2_decomposed_1.stl" scale="1.0 1.0 1.0"/>
+    <mesh name="034_spoon_2_part_2" file="decomposed/034_spoon_2_decomposed_2.stl" scale="1.0 1.0 1.0"/>
+    <mesh name="034_spoon_2_part_3" file="decomposed/034_spoon_2_decomposed_3.stl" scale="1.0 1.0 1.0"/>
+    <mesh name="034_spoon_2_part_4" file="decomposed/034_spoon_2_decomposed_4.stl" scale="1.0 1.0 1.0"/>
+    <mesh name="034_spoon_2_part_5" file="decomposed/034_spoon_2_decomposed_5.stl" scale="1.0 1.0 1.0"/>
+    <mesh name="034_spoon_2_part_6" file="decomposed/034_spoon_2_decomposed_6.stl" scale="1.0 1.0 1.0"/>
+    <mesh name="034_spoon_2_part_7" file="decomposed/034_spoon_2_decomposed_7.stl" scale="1.0 1.0 1.0"/>
+    <mesh name="034_spoon_2_part_8" file="decomposed/034_spoon_2_decomposed_8.stl" scale="1.0 1.0 1.0"/>
+    <mesh name="034_spoon_2_part_9" file="decomposed/034_spoon_2_decomposed_9.stl" scale="1.0 1.0 1.0"/>
+    <mesh name="034_spoon_2_part_10" file="decomposed/034_spoon_2_decomposed_10.stl" scale="1.0 1.0 1.0"/>
+    <mesh name="034_spoon_2_part_11" file="decomposed/034_spoon_2_decomposed_11.stl" scale="1.0 1.0 1.0"/>
+    <mesh name="034_spoon_2_part_12" file="decomposed/034_spoon_2_decomposed_12.stl" scale="1.0 1.0 1.0"/>
+    <mesh name="034_spoon_2_part_13" file="decomposed/034_spoon_2_decomposed_13.stl" scale="1.0 1.0 1.0"/>
+    <mesh name="034_spoon_2_part_14" file="decomposed/034_spoon_2_decomposed_14.stl" scale="1.0 1.0 1.0"/>
+    <mesh name="034_spoon_2_part_15" file="decomposed/034_spoon_2_decomposed_15.stl" scale="1.0 1.0 1.0"/>
+    <mesh name="034_spoon_2_part_16" file="decomposed/034_spoon_2_decomposed_16.stl" scale="1.0 1.0 1.0"/>
+    <mesh name="034_spoon_2_part_17" file="decomposed/034_spoon_2_decomposed_17.stl" scale="1.0 1.0 1.0"/>
+    <mesh name="034_spoon_2_part_18" file="decomposed/034_spoon_2_decomposed_18.stl" scale="1.0 1.0 1.0"/>
+    <mesh name="034_spoon_2_part_19" file="decomposed/034_spoon_2_decomposed_19.stl" scale="1.0 1.0 1.0"/>
+    <mesh name="034_spoon_2_part_20" file="decomposed/034_spoon_2_decomposed_20.stl" scale="1.0 1.0 1.0"/>
+    <mesh name="034_spoon_2_part_21" file="decomposed/034_spoon_2_decomposed_21.stl" scale="1.0 1.0 1.0"/>
+    <mesh name="034_spoon_2_part_22" file="decomposed/034_spoon_2_decomposed_22.stl" scale="1.0 1.0 1.0"/>
+    <mesh name="034_spoon_2_part_23" file="decomposed/034_spoon_2_decomposed_23.stl" scale="1.0 1.0 1.0"/>
+    <mesh name="034_spoon_2_part_24" file="decomposed/034_spoon_2_decomposed_24.stl" scale="1.0 1.0 1.0"/>
+    <mesh name="034_spoon_2_part_25" file="decomposed/034_spoon_2_decomposed_25.stl" scale="1.0 1.0 1.0"/>
+    <mesh name="034_spoon_2_part_26" file="decomposed/034_spoon_2_decomposed_26.stl" scale="1.0 1.0 1.0"/>
+    <mesh name="034_spoon_2_part_27" file="decomposed/034_spoon_2_decomposed_27.stl" scale="1.0 1.0 1.0"/>
+    <mesh name="034_spoon_2_part_28" file="decomposed/034_spoon_2_decomposed_28.stl" scale="1.0 1.0 1.0"/>
+    <mesh name="034_spoon_2_part_29" file="decomposed/034_spoon_2_decomposed_29.stl" scale="1.0 1.0 1.0"/>
+    <mesh name="034_spoon_2_part_30" file="decomposed/034_spoon_2_decomposed_30.stl" scale="1.0 1.0 1.0"/>
+    <mesh name="034_spoon_2_part_31" file="decomposed/034_spoon_2_decomposed_31.stl" scale="1.0 1.0 1.0"/>
+    <mesh name="034_spoon_2_part_32" file="decomposed/034_spoon_2_decomposed_32.stl" scale="1.0 1.0 1.0"/>
+    <mesh name="034_spoon_2_part_33" file="decomposed/034_spoon_2_decomposed_33.stl" scale="1.0 1.0 1.0"/>
+    <mesh name="034_spoon_2_part_34" file="decomposed/034_spoon_2_decomposed_34.stl" scale="1.0 1.0 1.0"/>
+    <mesh name="034_spoon_2_part_35" file="decomposed/034_spoon_2_decomposed_35.stl" scale="1.0 1.0 1.0"/>
+    <mesh name="034_spoon_2_part_36" file="decomposed/034_spoon_2_decomposed_36.stl" scale="1.0 1.0 1.0"/>
+  </asset>
+  <worldbody>
+    <body name="034_spoon_2">
+      <geom name="034_spoon_2_geom_0" type="mesh" mesh="034_spoon_2_part_0"/>
+      <geom name="034_spoon_2_geom_1" type="mesh" mesh="034_spoon_2_part_1"/>
+      <geom name="034_spoon_2_geom_2" type="mesh" mesh="034_spoon_2_part_2"/>
+      <geom name="034_spoon_2_geom_3" type="mesh" mesh="034_spoon_2_part_3"/>
+      <geom name="034_spoon_2_geom_4" type="mesh" mesh="034_spoon_2_part_4"/>
+      <geom name="034_spoon_2_geom_5" type="mesh" mesh="034_spoon_2_part_5"/>
+      <geom name="034_spoon_2_geom_6" type="mesh" mesh="034_spoon_2_part_6"/>
+      <geom name="034_spoon_2_geom_7" type="mesh" mesh="034_spoon_2_part_7"/>
+      <geom name="034_spoon_2_geom_8" type="mesh" mesh="034_spoon_2_part_8"/>
+      <geom name="034_spoon_2_geom_9" type="mesh" mesh="034_spoon_2_part_9"/>
+      <geom name="034_spoon_2_geom_10" type="mesh" mesh="034_spoon_2_part_10"/>
+      <geom name="034_spoon_2_geom_11" type="mesh" mesh="034_spoon_2_part_11"/>
+      <geom name="034_spoon_2_geom_12" type="mesh" mesh="034_spoon_2_part_12"/>
+      <geom name="034_spoon_2_geom_13" type="mesh" mesh="034_spoon_2_part_13"/>
+      <geom name="034_spoon_2_geom_14" type="mesh" mesh="034_spoon_2_part_14"/>
+      <geom name="034_spoon_2_geom_15" type="mesh" mesh="034_spoon_2_part_15"/>
+      <geom name="034_spoon_2_geom_16" type="mesh" mesh="034_spoon_2_part_16"/>
+      <geom name="034_spoon_2_geom_17" type="mesh" mesh="034_spoon_2_part_17"/>
+      <geom name="034_spoon_2_geom_18" type="mesh" mesh="034_spoon_2_part_18"/>
+      <geom name="034_spoon_2_geom_19" type="mesh" mesh="034_spoon_2_part_19"/>
+      <geom name="034_spoon_2_geom_20" type="mesh" mesh="034_spoon_2_part_20"/>
+      <geom name="034_spoon_2_geom_21" type="mesh" mesh="034_spoon_2_part_21"/>
+      <geom name="034_spoon_2_geom_22" type="mesh" mesh="034_spoon_2_part_22"/>
+      <geom name="034_spoon_2_geom_23" type="mesh" mesh="034_spoon_2_part_23"/>
+      <geom name="034_spoon_2_geom_24" type="mesh" mesh="034_spoon_2_part_24"/>
+      <geom name="034_spoon_2_geom_25" type="mesh" mesh="034_spoon_2_part_25"/>
+      <geom name="034_spoon_2_geom_26" type="mesh" mesh="034_spoon_2_part_26"/>
+      <geom name="034_spoon_2_geom_27" type="mesh" mesh="034_spoon_2_part_27"/>
+      <geom name="034_spoon_2_geom_28" type="mesh" mesh="034_spoon_2_part_28"/>
+      <geom name="034_spoon_2_geom_29" type="mesh" mesh="034_spoon_2_part_29"/>
+      <geom name="034_spoon_2_geom_30" type="mesh" mesh="034_spoon_2_part_30"/>
+      <geom name="034_spoon_2_geom_31" type="mesh" mesh="034_spoon_2_part_31"/>
+      <geom name="034_spoon_2_geom_32" type="mesh" mesh="034_spoon_2_part_32"/>
+      <geom name="034_spoon_2_geom_33" type="mesh" mesh="034_spoon_2_part_33"/>
+      <geom name="034_spoon_2_geom_34" type="mesh" mesh="034_spoon_2_part_34"/>
+      <geom name="034_spoon_2_geom_35" type="mesh" mesh="034_spoon_2_part_35"/>
+      <geom name="034_spoon_2_geom_36" type="mesh" mesh="034_spoon_2_part_36"/>
+    </body>
+  </worldbody>
+</mujoco>

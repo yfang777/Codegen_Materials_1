@@ -1,0 +1,26 @@
+{
+  "mesh_path": "/home/yuan/codegen/codegen/datagen_clean/assets/objects/040_rack/1/040_rack_1.stl",
+  "bounding_box": {
+    "x": 0.16402639398906865,
+    "y": 0.157306844444525,
+    "z": 0.34579410069178734
+  },
+  "keypoints": [
+    {
+      "position": [
+        0.08060166680582428,
+        -0.025330972158789065,
+        0.16435763909483542
+      ],
+      "description": "branch tip"
+    },
+        {
+      "position": [
+        0.01037928348343388,
+        -0.007754721664848441,
+        0.1323096752195248
+      ],
+      "description": "branch base"
+    }
+  ]
+}

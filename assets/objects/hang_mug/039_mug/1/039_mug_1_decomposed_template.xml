@@ -1,0 +1,138 @@
+<?xml version="1.0" ?>
+<mujoco model="039_mug_1">
+  <asset>
+    <mesh name="039_mug_1_mesh" file="039_mug_1.stl" scale="0.08 0.08 0.08"/>
+    <mesh name="039_mug_1_part_0" file="decomposed/039_mug_1_decomposed_0.stl" scale="0.08 0.08 0.08"/>
+    <mesh name="039_mug_1_part_1" file="decomposed/039_mug_1_decomposed_1.stl" scale="0.08 0.08 0.08"/>
+    <mesh name="039_mug_1_part_2" file="decomposed/039_mug_1_decomposed_2.stl" scale="0.08 0.08 0.08"/>
+    <mesh name="039_mug_1_part_3" file="decomposed/039_mug_1_decomposed_3.stl" scale="0.08 0.08 0.08"/>
+    <mesh name="039_mug_1_part_4" file="decomposed/039_mug_1_decomposed_4.stl" scale="0.08 0.08 0.08"/>
+    <mesh name="039_mug_1_part_5" file="decomposed/039_mug_1_decomposed_5.stl" scale="0.08 0.08 0.08"/>
+    <mesh name="039_mug_1_part_6" file="decomposed/039_mug_1_decomposed_6.stl" scale="0.08 0.08 0.08"/>
+    <mesh name="039_mug_1_part_7" file="decomposed/039_mug_1_decomposed_7.stl" scale="0.08 0.08 0.08"/>
+    <mesh name="039_mug_1_part_8" file="decomposed/039_mug_1_decomposed_8.stl" scale="0.08 0.08 0.08"/>
+    <mesh name="039_mug_1_part_9" file="decomposed/039_mug_1_decomposed_9.stl" scale="0.08 0.08 0.08"/>
+    <mesh name="039_mug_1_part_10" file="decomposed/039_mug_1_decomposed_10.stl" scale="0.08 0.08 0.08"/>
+    <mesh name="039_mug_1_part_11" file="decomposed/039_mug_1_decomposed_11.stl" scale="0.08 0.08 0.08"/>
+    <mesh name="039_mug_1_part_12" file="decomposed/039_mug_1_decomposed_12.stl" scale="0.08 0.08 0.08"/>
+    <mesh name="039_mug_1_part_13" file="decomposed/039_mug_1_decomposed_13.stl" scale="0.08 0.08 0.08"/>
+    <mesh name="039_mug_1_part_14" file="decomposed/039_mug_1_decomposed_14.stl" scale="0.08 0.08 0.08"/>
+    <mesh name="039_mug_1_part_15" file="decomposed/039_mug_1_decomposed_15.stl" scale="0.08 0.08 0.08"/>
+    <mesh name="039_mug_1_part_16" file="decomposed/039_mug_1_decomposed_16.stl" scale="0.08 0.08 0.08"/>
+    <mesh name="039_mug_1_part_17" file="decomposed/039_mug_1_decomposed_17.stl" scale="0.08 0.08 0.08"/>
+    <mesh name="039_mug_1_part_18" file="decomposed/039_mug_1_decomposed_18.stl" scale="0.08 0.08 0.08"/>
+    <mesh name="039_mug_1_part_19" file="decomposed/039_mug_1_decomposed_19.stl" scale="0.08 0.08 0.08"/>
+    <mesh name="039_mug_1_part_20" file="decomposed/039_mug_1_decomposed_20.stl" scale="0.08 0.08 0.08"/>
+    <mesh name="039_mug_1_part_21" file="decomposed/039_mug_1_decomposed_21.stl" scale="0.08 0.08 0.08"/>
+    <mesh name="039_mug_1_part_22" file="decomposed/039_mug_1_decomposed_22.stl" scale="0.08 0.08 0.08"/>
+    <mesh name="039_mug_1_part_23" file="decomposed/039_mug_1_decomposed_23.stl" scale="0.08 0.08 0.08"/>
+    <mesh name="039_mug_1_part_24" file="decomposed/039_mug_1_decomposed_24.stl" scale="0.08 0.08 0.08"/>
+    <mesh name="039_mug_1_part_25" file="decomposed/039_mug_1_decomposed_25.stl" scale="0.08 0.08 0.08"/>
+    <mesh name="039_mug_1_part_26" file="decomposed/039_mug_1_decomposed_26.stl" scale="0.08 0.08 0.08"/>
+    <mesh name="039_mug_1_part_27" file="decomposed/039_mug_1_decomposed_27.stl" scale="0.08 0.08 0.08"/>
+    <mesh name="039_mug_1_part_28" file="decomposed/039_mug_1_decomposed_28.stl" scale="0.08 0.08 0.08"/>
+    <mesh name="039_mug_1_part_29" file="decomposed/039_mug_1_decomposed_29.stl" scale="0.08 0.08 0.08"/>
+    <mesh name="039_mug_1_part_30" file="decomposed/039_mug_1_decomposed_30.stl" scale="0.08 0.08 0.08"/>
+    <mesh name="039_mug_1_part_31" file="decomposed/039_mug_1_decomposed_31.stl" scale="0.08 0.08 0.08"/>
+    <mesh name="039_mug_1_part_32" file="decomposed/039_mug_1_decomposed_32.stl" scale="0.08 0.08 0.08"/>
+    <mesh name="039_mug_1_part_33" file="decomposed/039_mug_1_decomposed_33.stl" scale="0.08 0.08 0.08"/>
+    <mesh name="039_mug_1_part_34" file="decomposed/039_mug_1_decomposed_34.stl" scale="0.08 0.08 0.08"/>
+    <mesh name="039_mug_1_part_35" file="decomposed/039_mug_1_decomposed_35.stl" scale="0.08 0.08 0.08"/>
+    <mesh name="039_mug_1_part_36" file="decomposed/039_mug_1_decomposed_36.stl" scale="0.08 0.08 0.08"/>
+    <mesh name="039_mug_1_part_37" file="decomposed/039_mug_1_decomposed_37.stl" scale="0.08 0.08 0.08"/>
+    <mesh name="039_mug_1_part_38" file="decomposed/039_mug_1_decomposed_38.stl" scale="0.08 0.08 0.08"/>
+    <mesh name="039_mug_1_part_39" file="decomposed/039_mug_1_decomposed_39.stl" scale="0.08 0.08 0.08"/>
+    <mesh name="039_mug_1_part_40" file="decomposed/039_mug_1_decomposed_40.stl" scale="0.08 0.08 0.08"/>
+    <mesh name="039_mug_1_part_41" file="decomposed/039_mug_1_decomposed_41.stl" scale="0.08 0.08 0.08"/>
+    <mesh name="039_mug_1_part_42" file="decomposed/039_mug_1_decomposed_42.stl" scale="0.08 0.08 0.08"/>
+    <mesh name="039_mug_1_part_43" file="decomposed/039_mug_1_decomposed_43.stl" scale="0.08 0.08 0.08"/>
+    <mesh name="039_mug_1_part_44" file="decomposed/039_mug_1_decomposed_44.stl" scale="0.08 0.08 0.08"/>
+    <mesh name="039_mug_1_part_45" file="decomposed/039_mug_1_decomposed_45.stl" scale="0.08 0.08 0.08"/>
+    <mesh name="039_mug_1_part_46" file="decomposed/039_mug_1_decomposed_46.stl" scale="0.08 0.08 0.08"/>
+    <mesh name="039_mug_1_part_47" file="decomposed/039_mug_1_decomposed_47.stl" scale="0.08 0.08 0.08"/>
+    <mesh name="039_mug_1_part_48" file="decomposed/039_mug_1_decomposed_48.stl" scale="0.08 0.08 0.08"/>
+    <mesh name="039_mug_1_part_49" file="decomposed/039_mug_1_decomposed_49.stl" scale="0.08 0.08 0.08"/>
+    <mesh name="039_mug_1_part_50" file="decomposed/039_mug_1_decomposed_50.stl" scale="0.08 0.08 0.08"/>
+    <mesh name="039_mug_1_part_51" file="decomposed/039_mug_1_decomposed_51.stl" scale="0.08 0.08 0.08"/>
+    <mesh name="039_mug_1_part_52" file="decomposed/039_mug_1_decomposed_52.stl" scale="0.08 0.08 0.08"/>
+    <mesh name="039_mug_1_part_53" file="decomposed/039_mug_1_decomposed_53.stl" scale="0.08 0.08 0.08"/>
+    <mesh name="039_mug_1_part_54" file="decomposed/039_mug_1_decomposed_54.stl" scale="0.08 0.08 0.08"/>
+    <mesh name="039_mug_1_part_55" file="decomposed/039_mug_1_decomposed_55.stl" scale="0.08 0.08 0.08"/>
+    <mesh name="039_mug_1_part_56" file="decomposed/039_mug_1_decomposed_56.stl" scale="0.08 0.08 0.08"/>
+    <mesh name="039_mug_1_part_57" file="decomposed/039_mug_1_decomposed_57.stl" scale="0.08 0.08 0.08"/>
+    <mesh name="039_mug_1_part_58" file="decomposed/039_mug_1_decomposed_58.stl" scale="0.08 0.08 0.08"/>
+    <mesh name="039_mug_1_part_59" file="decomposed/039_mug_1_decomposed_59.stl" scale="0.08 0.08 0.08"/>
+    <mesh name="039_mug_1_part_60" file="decomposed/039_mug_1_decomposed_60.stl" scale="0.08 0.08 0.08"/>
+    <mesh name="039_mug_1_part_61" file="decomposed/039_mug_1_decomposed_61.stl" scale="0.08 0.08 0.08"/>
+    <mesh name="039_mug_1_part_62" file="decomposed/039_mug_1_decomposed_62.stl" scale="0.08 0.08 0.08"/>
+    <mesh name="039_mug_1_part_63" file="decomposed/039_mug_1_decomposed_63.stl" scale="0.08 0.08 0.08"/>
+  </asset>
+  <worldbody>
+    <body name="039_mug_1">
+      <geom name="039_mug_1_geom_0" type="mesh" mesh="039_mug_1_part_0"/>
+      <geom name="039_mug_1_geom_1" type="mesh" mesh="039_mug_1_part_1"/>
+      <geom name="039_mug_1_geom_2" type="mesh" mesh="039_mug_1_part_2"/>
+      <geom name="039_mug_1_geom_3" type="mesh" mesh="039_mug_1_part_3"/>
+      <geom name="039_mug_1_geom_4" type="mesh" mesh="039_mug_1_part_4"/>
+      <geom name="039_mug_1_geom_5" type="mesh" mesh="039_mug_1_part_5"/>
+      <geom name="039_mug_1_geom_6" type="mesh" mesh="039_mug_1_part_6"/>
+      <geom name="039_mug_1_geom_7" type="mesh" mesh="039_mug_1_part_7"/>
+      <geom name="039_mug_1_geom_8" type="mesh" mesh="039_mug_1_part_8"/>
+      <geom name="039_mug_1_geom_9" type="mesh" mesh="039_mug_1_part_9"/>
+      <geom name="039_mug_1_geom_10" type="mesh" mesh="039_mug_1_part_10"/>
+      <geom name="039_mug_1_geom_11" type="mesh" mesh="039_mug_1_part_11"/>
+      <geom name="039_mug_1_geom_12" type="mesh" mesh="039_mug_1_part_12"/>
+      <geom name="039_mug_1_geom_13" type="mesh" mesh="039_mug_1_part_13"/>
+      <geom name="039_mug_1_geom_14" type="mesh" mesh="039_mug_1_part_14"/>
+      <geom name="039_mug_1_geom_15" type="mesh" mesh="039_mug_1_part_15"/>
+      <geom name="039_mug_1_geom_16" type="mesh" mesh="039_mug_1_part_16"/>
+      <geom name="039_mug_1_geom_17" type="mesh" mesh="039_mug_1_part_17"/>
+      <geom name="039_mug_1_geom_18" type="mesh" mesh="039_mug_1_part_18"/>
+      <geom name="039_mug_1_geom_19" type="mesh" mesh="039_mug_1_part_19"/>
+      <geom name="039_mug_1_geom_20" type="mesh" mesh="039_mug_1_part_20"/>
+      <geom name="039_mug_1_geom_21" type="mesh" mesh="039_mug_1_part_21"/>
+      <geom name="039_mug_1_geom_22" type="mesh" mesh="039_mug_1_part_22"/>
+      <geom name="039_mug_1_geom_23" type="mesh" mesh="039_mug_1_part_23"/>
+      <geom name="039_mug_1_geom_24" type="mesh" mesh="039_mug_1_part_24"/>
+      <geom name="039_mug_1_geom_25" type="mesh" mesh="039_mug_1_part_25"/>
+      <geom name="039_mug_1_geom_26" type="mesh" mesh="039_mug_1_part_26"/>
+      <geom name="039_mug_1_geom_27" type="mesh" mesh="039_mug_1_part_27"/>
+      <geom name="039_mug_1_geom_28" type="mesh" mesh="039_mug_1_part_28"/>
+      <geom name="039_mug_1_geom_29" type="mesh" mesh="039_mug_1_part_29"/>
+      <geom name="039_mug_1_geom_30" type="mesh" mesh="039_mug_1_part_30"/>
+      <geom name="039_mug_1_geom_31" type="mesh" mesh="039_mug_1_part_31"/>
+      <geom name="039_mug_1_geom_32" type="mesh" mesh="039_mug_1_part_32"/>
+      <geom name="039_mug_1_geom_33" type="mesh" mesh="039_mug_1_part_33"/>
+      <geom name="039_mug_1_geom_34" type="mesh" mesh="039_mug_1_part_34"/>
+      <geom name="039_mug_1_geom_35" type="mesh" mesh="039_mug_1_part_35"/>
+      <geom name="039_mug_1_geom_36" type="mesh" mesh="039_mug_1_part_36"/>
+      <geom name="039_mug_1_geom_37" type="mesh" mesh="039_mug_1_part_37"/>
+      <geom name="039_mug_1_geom_38" type="mesh" mesh="039_mug_1_part_38"/>
+      <geom name="039_mug_1_geom_39" type="mesh" mesh="039_mug_1_part_39"/>
+      <geom name="039_mug_1_geom_40" type="mesh" mesh="039_mug_1_part_40"/>
+      <geom name="039_mug_1_geom_41" type="mesh" mesh="039_mug_1_part_41"/>
+      <geom name="039_mug_1_geom_42" type="mesh" mesh="039_mug_1_part_42"/>
+      <geom name="039_mug_1_geom_43" type="mesh" mesh="039_mug_1_part_43"/>
+      <geom name="039_mug_1_geom_44" type="mesh" mesh="039_mug_1_part_44"/>
+      <geom name="039_mug_1_geom_45" type="mesh" mesh="039_mug_1_part_45"/>
+      <geom name="039_mug_1_geom_46" type="mesh" mesh="039_mug_1_part_46"/>
+      <geom name="039_mug_1_geom_47" type="mesh" mesh="039_mug_1_part_47"/>
+      <geom name="039_mug_1_geom_48" type="mesh" mesh="039_mug_1_part_48"/>
+      <geom name="039_mug_1_geom_49" type="mesh" mesh="039_mug_1_part_49"/>
+      <geom name="039_mug_1_geom_50" type="mesh" mesh="039_mug_1_part_50"/>
+      <geom name="039_mug_1_geom_51" type="mesh" mesh="039_mug_1_part_51"/>
+      <geom name="039_mug_1_geom_52" type="mesh" mesh="039_mug_1_part_52"/>
+      <geom name="039_mug_1_geom_53" type="mesh" mesh="039_mug_1_part_53"/>
+      <geom name="039_mug_1_geom_54" type="mesh" mesh="039_mug_1_part_54"/>
+      <geom name="039_mug_1_geom_55" type="mesh" mesh="039_mug_1_part_55"/>
+      <geom name="039_mug_1_geom_56" type="mesh" mesh="039_mug_1_part_56"/>
+      <geom name="039_mug_1_geom_57" type="mesh" mesh="039_mug_1_part_57"/>
+      <geom name="039_mug_1_geom_58" type="mesh" mesh="039_mug_1_part_58"/>
+      <geom name="039_mug_1_geom_59" type="mesh" mesh="039_mug_1_part_59"/>
+      <geom name="039_mug_1_geom_60" type="mesh" mesh="039_mug_1_part_60"/>
+      <geom name="039_mug_1_geom_61" type="mesh" mesh="039_mug_1_part_61"/>
+      <geom name="039_mug_1_geom_62" type="mesh" mesh="039_mug_1_part_62"/>
+      <geom name="039_mug_1_geom_63" type="mesh" mesh="039_mug_1_part_63"/>
+    </body>
+  </worldbody>
+</mujoco>

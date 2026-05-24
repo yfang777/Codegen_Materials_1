@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<mujoco model="040_rack_1">
+  <asset>
+    <mesh name="040_rack_1_mesh" file="040_rack_1.stl" scale="1. 1. 1."/>
+    <mesh name="040_rack_1_part_0" file="decomposed/040_rack_1_decomposed_0.stl" scale="1. 1. 1."/>
+    <mesh name="040_rack_1_part_1" file="decomposed/040_rack_1_decomposed_1.stl" scale="1. 1. 1."/>
+    <mesh name="040_rack_1_part_2" file="decomposed/040_rack_1_decomposed_2.stl" scale="1. 1. 1."/>
+    <mesh name="040_rack_1_part_3" file="decomposed/040_rack_1_decomposed_3.stl" scale="1. 1. 1."/>
+    <mesh name="040_rack_1_part_4" file="decomposed/040_rack_1_decomposed_4.stl" scale="1. 1. 1."/>
+    <mesh name="040_rack_1_part_5" file="decomposed/040_rack_1_decomposed_5.stl" scale="1. 1. 1."/>
+    <mesh name="040_rack_1_part_6" file="decomposed/040_rack_1_decomposed_6.stl" scale="1. 1. 1."/>
+    <mesh name="040_rack_1_part_7" file="decomposed/040_rack_1_decomposed_7.stl" scale="1. 1. 1."/>
+    <mesh name="040_rack_1_part_8" file="decomposed/040_rack_1_decomposed_8.stl" scale="1. 1. 1."/>
+  </asset>
+  <worldbody>
+    <body name="040_rack_1">
+      <geom name="040_rack_1_geom_0" type="mesh" mesh="040_rack_1_part_0"/>
+      <geom name="040_rack_1_geom_1" type="mesh" mesh="040_rack_1_part_1"/>
+      <geom name="040_rack_1_geom_2" type="mesh" mesh="040_rack_1_part_2"/>
+      <geom name="040_rack_1_geom_3" type="mesh" mesh="040_rack_1_part_3"/>
+      <geom name="040_rack_1_geom_4" type="mesh" mesh="040_rack_1_part_4"/>
+      <geom name="040_rack_1_geom_5" type="mesh" mesh="040_rack_1_part_5"/>
+      <geom name="040_rack_1_geom_6" type="mesh" mesh="040_rack_1_part_6"/>
+      <geom name="040_rack_1_geom_7" type="mesh" mesh="040_rack_1_part_7"/>
+      <geom name="040_rack_1_geom_8" type="mesh" mesh="040_rack_1_part_8"/>
+    </body>
+  </worldbody>
+</mujoco>
