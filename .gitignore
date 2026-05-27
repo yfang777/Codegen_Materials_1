@@ -9,6 +9,8 @@ __pycache__/
 *.swp
 *.swo
 
+assets/blender/*.blend
+
 .env
 .venv/
 venv/
@@ -17,3 +19,6 @@ env/
 tmp/
 temp/
 *.log
+data/
+.vscode/
+

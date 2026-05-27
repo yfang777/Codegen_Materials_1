@@ -1,0 +1,6 @@
+imageio
+mujoco
+pandas
+pyarrow
+fastparquet
+numpy==1.26.4

@@ -20,7 +20,7 @@ ASSETS_DIR = ROOT / "assets"
 ROBOT_XML = ASSETS_DIR / "xarm7_gripper" / "xarm7_with_gripper.xml"
 DEFAULT_ROLLOUT = ROOT / "data" / "success_rollout" / "hang_mug" / "sample_0.parquet"
 DEFAULT_OUTPUT = ROOT / "data" / "success_rollout" / "hang_mug" / "sample_0_camera_239222303153_rendered.mp4"
-DEFAULT_SCENE_DIR = Path.home() / "Downloads" / "sample_0"
+DEFAULT_SCENE_DIR = ASSETS_DIR
 CAMERA_NAME = "camera_239222303153"
 OBJECT_SCALES = {
     "039_mug_1": (1.0, 1.0, 1.0),
